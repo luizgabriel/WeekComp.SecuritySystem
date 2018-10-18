@@ -9,5 +9,5 @@ Componentes usados para o projeto:
 - [Módulo LCD I2C](https://www.robocore.net/loja/produtos/modulo-lcd-i2c.html)
 - [Kit RFID](https://www.robocore.net/loja/produtos/kit-rfid-mfrc522.html)
 
-Diagrama UML:
+### Diagrama UML:
 ![Diagrama UML](https://i.imgur.com/k9O5yoX.png)
