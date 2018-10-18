@@ -10,4 +10,4 @@ Componentes usados para o projeto:
 - [Kit RFID](https://www.robocore.net/loja/produtos/kit-rfid-mfrc522.html)
 
 Diagrama UML:
-![Diagrama UML](https://imgur.com/k9O5yoX)
+![Diagrama UML](https://i.imgur.com/k9O5yoX.png)
